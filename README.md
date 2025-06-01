@@ -61,8 +61,6 @@ This work builds upon:
 
 - 📰 **JSS 2011**: [Adaptable Decentralized SOA](https://doi.org/10.1016/j.jss.2011.03.031)
 - 🎓 **PhD Thesis (UPM 2011)**: *Adaptable Decentralized Orchestration Engine for Block-Structured Workflows in SOA*
-- 🧠 **Journal of Systems and Software 2018**: [Cognitive and adaptive service composition](https://www.sciencedirect.com/science/article/pii/S0164121217300821)
-
 ---
 
 ## 📊 Experimental Setup
