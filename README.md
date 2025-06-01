@@ -1,9 +1,6 @@
 # ADWEF-CLOUD: Adaptable Decentralized Workflow Execution Framework in Cloud
 
-This repository provides the source code and experimental setup for **ADWEF.Cloud**, a framework for **adaptive decentralized workflow execution in cloud computing**, introduced by:
-
-- **Faramarz Safi-Esfahani**, University of Technology Sydney  
-- **Narges Khatibi**, University of Kurdistan
+This repository provides the source code and experimental setup for **ADWEF@Cloud**, a framework for **adaptive decentralized workflow execution in cloud computing**, introduced by:
 
 📄 **Published Article**:  
 Safi-Esfahani, F., & Khatibi, N. (2025). *Adaptable decentralized workflow execution with fuzzy framework in cloud computing (ADWEF.Cloud)*. Computing, Springer.  
@@ -38,29 +35,12 @@ ADWEF.Cloud addresses these challenges by:
 
 ---
 
-## 📁 Repository Structure
-
-```
-ADWEF-CLOUD/
-│
-├── adwef_core/                 # Main source code for ADWEF.Cloud engine
-├── experiments/               # Scripts for setting up simulation scenarios
-├── configs/                   # Config files for CloudSim, workflows, VMs
-├── results/                   # Experimental logs and performance metrics
-├── docs/                      # Diagrams, figures, architecture explanations
-├── requirements.txt           # Python or Java dependencies (as needed)
-├── LICENSE
-└── README.md
-```
-
----
-
 ## 🧠 Background
 
 This work builds upon:
 
 - 📰 **JSS 2011**: [Adaptable Decentralized SOA](https://doi.org/10.1016/j.jss.2011.03.031)
-- 🎓 **PhD Thesis (UPM 2011)**: *Adaptable Decentralized Orchestration Engine for Block-Structured Workflows in SOA*
+- 🎓 **PhD Thesis (UPM 2011)**: *Adaptable Decentralized Orchestration Engine for Block-Structured Workflows in SOA* availabe in the thesis folder of the repo!
 ---
 
 ## 📊 Experimental Setup
@@ -123,17 +103,5 @@ Please cite this work as:
   - Proposes runtime-aware deadline-sensitive scheduling for workflows in cloud environments.
 - [Taxonomy of Workflow Partitioning Methods](https://www.sciencedirect.com/science/article/pii/S0164121217300821)  
   - Presents a comprehensive classification of workflow partitioning techniques used in distributed systems.
-
----
-
-## 🧾 License
-
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
-
----
-
-## 🤝 Acknowledgements
-
-This project is a continuation of a decade-long research endeavor into decentralized orchestration and adaptive workflow execution frameworks. The authors thank the research community for their ongoing support and feedback.
 
 ---
