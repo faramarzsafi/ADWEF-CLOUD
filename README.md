@@ -59,9 +59,10 @@ ADWEF-CLOUD/
 
 This work builds upon:
 
-- 📰 **JSS 2011**: [Adaptable Decentralized Service Oriented Architecture](https://doi.org/10.1016/j.jss.2011.03.031)  
-- 🎓 **PhD Thesis (UPM 2011)**: *Adaptable Decentralized Orchestration Engine for Block-Structured Workflows in SOA*  
-- ☁️ **New Extension**: Adds cloud scalability, bandwidth adaptability, and fuzzy-based runtime control
+- 📰 **JSS 2011**: [Adaptable Decentralized SOA](https://doi.org/10.1016/j.jss.2011.03.031)
+- 🎓 **PhD Thesis (UPM 2011)**: *Adaptable Decentralized Orchestration Engine for Block-Structured Workflows in SOA*
+- 🧪 **Cluster Computing 2017**: [Elastic resource provisioning with adaptive decentralization](https://link.springer.com/article/10.1007/s11227-016-1928-z)
+- 🧠 **Journal of Systems and Software 2018**: [Cognitive and adaptive service composition](https://www.sciencedirect.com/science/article/pii/S0164121217300821)
 
 ---
 
@@ -116,11 +117,15 @@ Please cite this work as:
 
 ---
 
-## 🔗 Related Works
+## 👨‍👩‍👧‍👦 ADWEF Family of Research
 
-- [JSS 2011 - Adaptable Decentralized SOA](https://doi.org/10.1016/j.jss.2011.03.031)
-- [PhD Thesis - UPM 2011](https://www.example.com/thesis-download-link)
-- [SpringerLink Paper](https://link.springer.com/article/10.1007/s00607-025-01480-5)
+- [Springer 2025 – ADWEF.Cloud Paper](https://link.springer.com/article/10.1007/s00607-025-01480-5)
+- [JSS 2011 – Adaptable Decentralized SOA](https://doi.org/10.1016/j.jss.2011.03.031)
+- [PhD Thesis – UPM 2011]
+- [ATSDS: Adaptive Two-Stage Deadline-Constrained Scheduling](https://link.springer.com/article/10.1007/s11227-016-1928-z)  
+  - Proposes runtime-aware deadline-sensitive scheduling for workflows in cloud environments.
+- [Taxonomy of Workflow Partitioning Methods](https://www.sciencedirect.com/science/article/pii/S0164121217300821)  
+  - Presents a comprehensive classification of workflow partitioning techniques used in distributed systems.
 
 ---
 
